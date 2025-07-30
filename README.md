@@ -24,27 +24,24 @@ Used a structured dataset containing fields like:
 
 ⦁	Attrition, Job Satisfaction, Environment Satisfaction, etc.
 
-# 3. Data Cleaning & Processing in Power BI:
+## 3. Data Cleaning & Processing in Power BI:
 
 ⦁	Handled missing or inconsistent data.
 
 ⦁	Created calculated columns and measures:
 
-	 - Attrition Rate
- 
-	 - Average Monthly Income
- 
-	 - Job Satisfaction Index
- 
-	 - Years at Company, etc.
-
-# 4. Power BI Setup:
+	- Attrition Rate
+ 	- Average Monthly Income
+	- Job satisfaction Index
+   
+  
+## 4. Power BI Setup:
 
 ⦁	Imported data directly from Excel/CSV.
 
 ⦁	Modeled data relationships to support slicers and interactive visuals.
 
-# 5. KPIs:
+## 5. KPIs:
 
 ⦁	 Attrition Rate
 
@@ -56,7 +53,7 @@ Used a structured dataset containing fields like:
 
 ⦁	 Job Satisfaction Score
 
-# 6. Charts & Visuals:
+## 6. Charts & Visuals:
 
 ⦁	 Stacked Column Chart for attrition across departments.
 
@@ -75,6 +72,26 @@ Used a structured dataset containing fields like:
 ⦁	DAX (Data Analysis Expressions)
 
 ⦁	Excel/CSV for initial dataset
+
+## Key Highlights:
+
+⦁	  Total Employees: 1470
+
+⦁	  Attrition Rate: 16%
+
+⦁	  Avg Age: 37 | Avg Salary: ₹6.5K | Avg Tenure: 7 years
+
+⦁	  Major Attrition by Age Group: 26-35 years
+
+⦁	  Top Attrition by Education: Life Sciences, Medical
+
+⦁	  Roles with High Attrition: Laboratory Technician, Sales Executive
+
+⦁	  Salary Band with Most Attrition: Below ₹5K
+
+⦁	  Visuals: Job Satisfaction, Year-wise Attrition, Gender Split & more
+	
+
 
 
 
