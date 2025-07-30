@@ -29,12 +29,11 @@ Used a structured dataset containing fields like:
 ⦁	Handled missing or inconsistent data.
 
 ⦁	Created calculated columns and measures:
-
 	- Attrition Rate
- 	- Average Monthly Income
-	- Job satisfaction Index
+	- Average Monthly Income
+	- Job Satisfaction Index
+	- Years at Company, etc.
    
-  
 ## 4. Power BI Setup:
 
 ⦁	Imported data directly from Excel/CSV.
