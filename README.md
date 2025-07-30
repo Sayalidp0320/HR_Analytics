@@ -30,13 +30,13 @@ Used a structured dataset containing fields like:
 
 ⦁	Created calculated columns and measures:
 
-	Attrition Rate
+	 - Attrition Rate
  
-	Average Monthly Income
+	 - Average Monthly Income
  
-	Job Satisfaction Index
+	 - Job Satisfaction Index
  
-	Years at Company, etc.
+	 - Years at Company, etc.
 
 # 4. Power BI Setup:
 
